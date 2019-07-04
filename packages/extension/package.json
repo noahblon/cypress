@@ -18,7 +18,9 @@
     "check-deps": "node ../../scripts/check-deps.js --verbose",
     "check-deps-pre": "npm run check-deps -- --prescript",
     "clean": "gulp clean",
-    "clean-deps": "rm -rf node_modules"
+    "clean-deps": "rm -rf node_modules",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "files": [
     "app",
@@ -45,6 +47,8 @@
   },
   "dependencies": {
     "bluebird": "3.5.3",
-    "lodash": "4.17.11"
-  }
+    "lodash": "4.17.11",
+    "snyk": "^1.189.0"
+  },
+  "snyk": true
 }
