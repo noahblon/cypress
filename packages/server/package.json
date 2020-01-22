@@ -100,7 +100,7 @@
     "xvfb-maybe": "cypress-io/xvfb-maybe#c4a810c42d603949cd63b8cf245f6c239331d370"
   },
   "dependencies": {
-    "@cypress/browserify-preprocessor": "1.1.2",
+    "@cypress/browserify-preprocessor": "2.1.1",
     "@cypress/commit-info": "2.1.2",
     "@cypress/get-windows-proxy": "1.5.4",
     "@cypress/icons": "0.7.0",
@@ -112,7 +112,7 @@
     "chai": "1.10.0",
     "chalk": "2.4.2",
     "check-more-types": "2.24.0",
-    "chokidar": "1.7.0",
+    "chokidar": "2.0.0",
     "cjsxify": "0.3.0",
     "clear-module": "2.1.0",
     "cli-table2": "0.2.0",
