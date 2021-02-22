@@ -33,7 +33,7 @@
     "debug": "3.2.6",
     "electron-packager": "9.1.0",
     "fs-extra": "0.30.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "minimist": "1.2.0"
   }
 }
