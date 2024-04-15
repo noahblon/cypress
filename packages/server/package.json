@@ -102,7 +102,7 @@
   "dependencies": {
     "@cypress/browserify-preprocessor": "1.1.2",
     "@cypress/commit-info": "2.1.2",
-    "@cypress/get-windows-proxy": "1.5.4",
+    "@cypress/get-windows-proxy": "1.6.0",
     "@cypress/icons": "0.7.0",
     "@cypress/mocha-teamcity-reporter": "1.0.0",
     "@ffmpeg-installer/ffmpeg": "1.0.17",
@@ -151,7 +151,7 @@
     "konfig": "0.2.1",
     "lazy-ass": "1.6.0",
     "lockfile": "1.0.4",
-    "lodash": "4.17.11",
+    "lodash": "4.17.17",
     "log-symbols": "2.2.0",
     "md5": "2.2.1",
     "method-override": "2.3.10",
